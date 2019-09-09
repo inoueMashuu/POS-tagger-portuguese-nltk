@@ -1,6 +1,6 @@
 # trained_POS_taggers
 
-Pasta com os taggers treinados. É recomendado o uso do `POS_tagger_brill.pkl` ou `POS_tagger_trigram.pkl`, pois tem a melhor acurácia e uma taxa satisfatória de palavras taggeadas por segundo (Palavras/s).
+Pasta com os taggers treinados. É recomendado o uso do `POS_tagger_brill.pkl` ou `POS_tagger_trigram.pkl`, pois eles tem a melhor acurácia e uma taxa satisfatória de palavras taggeadas por segundo (Palavras/s).
 
 | Tagger                 | Acurácia | Palavras/s | Tamanho  |
 |------------------------|----------|------------|----------|

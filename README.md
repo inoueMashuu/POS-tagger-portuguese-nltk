@@ -32,7 +32,7 @@ teste_tagger.tag(word_tokenize(phrase))
 -----
 ## Desempenho dos taggers treinados
 
-Comparação do desemepho dos taggers. Para efeitos de comparação na taxa de palavras processadas, esse teste foi feito em Python 3.6, em uma máquina com processador Intel i7 e 16 GB de RAM.
+Comparação do desempenho dos taggers. Para efeitos de comparação na taxa de palavras processadas, esse teste foi feito em Python 3.6, em uma máquina com processador Intel i7 e 16 GB de RAM.
 
 | Tagger                 | Acurácia | Palavras/s | Tamanho  |
 |------------------------|----------|------------|----------|
